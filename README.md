@@ -1,6 +1,5 @@
 # FinMent
-FinMent is an AI-powered personal finance mentor that helps users plan investments, calculate FIRE goals, and receive personalized financial guidance using open-source tools.
-Here is your content in a **clean, structured format**, with **no changes to wording at all**:
+FinMent is an AI-powered personal finance mentor that helps users plan investments, calculate FIRE goals, and receive personalized financial guidance.
 
 ---
 
@@ -10,7 +9,7 @@ Here is your content in a **clean, structured format**, with **no changes to wor
   Calculate retirement corpus and required monthly SIP.
 
 * AI Financial Advisor
-  Generate personalized financial suggestions using open-source NLP models.
+  Generate personalized financial suggestions.
 
 * Money Health Score
   Evaluate financial health based on savings, income, and expenses.
@@ -130,7 +129,7 @@ Monthly SIP is calculated using compound interest formulas.
 
 ### **AI Advice Generation**
 
-Uses distilgpt2 from Hugging Face
+
 Generates financial suggestions based on user inputs
 
 ---
@@ -149,7 +148,7 @@ Calculated based on:
 
 * Tax calculator (old vs new regime)
 * Mutual fund portfolio analyzer
-* Upgrade to local LLM (Mistral via Ollama)
+* Upgrade to local/open source LLM (Mistral via Ollama)
 * Data visualization using charts
 * User authentication system
 
