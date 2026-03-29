@@ -29,7 +29,7 @@ Here is your content in a **clean, structured format**, with **no changes to wor
 | --------- | -------------------------------------- |
 | Frontend  | HTML, CSS, JavaScript                  |
 | Backend   | Flask (Python)                         |
-| AI Layer  | Hugging Face Transformers (distilgpt2) |
+| AI Layer  | FastRouter API (Claude Sonnet 4.0)     |
 | Database  | SQLite                                 |
 | Libraries | NumPy, Pandas                          |
 
